@@ -4,10 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lab2
-{
-    interface IDownload
-    {
-        void DownloadProgram(string name);
-    }
+namespace lab2 {
+  interface IDownload {
+    void DownloadProgram(string name);
+  }
 }
