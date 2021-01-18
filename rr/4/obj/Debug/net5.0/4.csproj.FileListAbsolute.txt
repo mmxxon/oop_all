@@ -1,0 +1,16 @@
+/home/xon/work/oop/rr/4/bin/Debug/net5.0/4
+/home/xon/work/oop/rr/4/bin/Debug/net5.0/4.deps.json
+/home/xon/work/oop/rr/4/bin/Debug/net5.0/4.runtimeconfig.json
+/home/xon/work/oop/rr/4/bin/Debug/net5.0/4.runtimeconfig.dev.json
+/home/xon/work/oop/rr/4/bin/Debug/net5.0/4.dll
+/home/xon/work/oop/rr/4/bin/Debug/net5.0/ref/4.dll
+/home/xon/work/oop/rr/4/bin/Debug/net5.0/4.pdb
+/home/xon/work/oop/rr/4/obj/Debug/net5.0/4.csprojAssemblyReference.cache
+/home/xon/work/oop/rr/4/obj/Debug/net5.0/4.GeneratedMSBuildEditorConfig.editorconfig
+/home/xon/work/oop/rr/4/obj/Debug/net5.0/4.AssemblyInfoInputs.cache
+/home/xon/work/oop/rr/4/obj/Debug/net5.0/4.AssemblyInfo.cs
+/home/xon/work/oop/rr/4/obj/Debug/net5.0/4.csproj.CoreCompileInputs.cache
+/home/xon/work/oop/rr/4/obj/Debug/net5.0/4.dll
+/home/xon/work/oop/rr/4/obj/Debug/net5.0/ref/4.dll
+/home/xon/work/oop/rr/4/obj/Debug/net5.0/4.pdb
+/home/xon/work/oop/rr/4/obj/Debug/net5.0/4.genruntimeconfig.cache

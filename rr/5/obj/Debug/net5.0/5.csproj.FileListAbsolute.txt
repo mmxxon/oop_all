@@ -1,0 +1,16 @@
+/home/xon/work/oop/rr/5/obj/Debug/net5.0/5.csprojAssemblyReference.cache
+/home/xon/work/oop/rr/5/obj/Debug/net5.0/5.GeneratedMSBuildEditorConfig.editorconfig
+/home/xon/work/oop/rr/5/obj/Debug/net5.0/5.AssemblyInfoInputs.cache
+/home/xon/work/oop/rr/5/obj/Debug/net5.0/5.AssemblyInfo.cs
+/home/xon/work/oop/rr/5/obj/Debug/net5.0/5.csproj.CoreCompileInputs.cache
+/home/xon/work/oop/rr/5/bin/Debug/net5.0/5
+/home/xon/work/oop/rr/5/bin/Debug/net5.0/5.deps.json
+/home/xon/work/oop/rr/5/bin/Debug/net5.0/5.runtimeconfig.json
+/home/xon/work/oop/rr/5/bin/Debug/net5.0/5.runtimeconfig.dev.json
+/home/xon/work/oop/rr/5/bin/Debug/net5.0/5.dll
+/home/xon/work/oop/rr/5/bin/Debug/net5.0/ref/5.dll
+/home/xon/work/oop/rr/5/bin/Debug/net5.0/5.pdb
+/home/xon/work/oop/rr/5/obj/Debug/net5.0/5.dll
+/home/xon/work/oop/rr/5/obj/Debug/net5.0/ref/5.dll
+/home/xon/work/oop/rr/5/obj/Debug/net5.0/5.pdb
+/home/xon/work/oop/rr/5/obj/Debug/net5.0/5.genruntimeconfig.cache
